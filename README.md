@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey! 👋
+### I'm Yaswanth Modepalli :bowtie:
 
-<!--
-**Yaswanth14/Yaswanth14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently persuing my btech is CS.
+- 🌱 I’m currently learning c and cpp.
+- 👯 I’m looking to collaborate on Python related projects.
+- 🤔 I’m looking for help with DS and Algo.
+- 💬 Ask me about Python.
+- 📫 Feel free to text me at : [twitter](https://twitter.com/YModepalli)
+- 😄 Pronouns: He/Him/His
+- :blush: Fun fact: I love to connect with new people
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
