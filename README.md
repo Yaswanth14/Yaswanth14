@@ -17,5 +17,5 @@
 - [ ] learn c and cpp
 - [ ] Apply to student programs
 - [ ] Start DS and Algo
-- [ ] Start writing Blogs
+- [x] Start writing Blogs
 - [ ] MLH Fellowship
