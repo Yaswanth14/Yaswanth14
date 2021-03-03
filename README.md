@@ -9,6 +9,7 @@
 - 📫 Feel free to text me at : [twitter](https://twitter.com/YModepalli)
 - 😄 Pronouns: *He/Him/His*.
 - :blush: Fun fact: **I love to connect with new people**.
+- :grin: Please have a moment to look at my blogs : [Here](https://ymodepalli.hashnode.dev/)
 
 -------------------------
 ### Tasks for the Year:
