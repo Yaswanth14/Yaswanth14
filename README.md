@@ -1,7 +1,7 @@
 ### Hey! 👋
 ## I'm Yaswanth Modepalli :bowtie:
 
-- 🔭 I’m currently persuing my btech is **CS**.
+- 🔭 I’m currently persuing my btech in **Computer Science**.
 - 🌱 I’m currently learning *c and cpp*.
 - 👯 I’m looking to collaborate on *Python related projects*.
 - 🤔 I’m looking for help with *DS and Algo*.
