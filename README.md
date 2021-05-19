@@ -24,7 +24,7 @@
 
 - [ ] Learn C/C++
 
-- [ ] Apply to student programs
+- [x] Apply to student programs (got rejected 😓 )
 
 - [ ] Learn DS and Algo
 
