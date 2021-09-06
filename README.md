@@ -22,9 +22,9 @@
 ## Goals of the year
 - [x] Learn Python
 
-- [ ] Learn C/C++
+- [x] Learn C/C++
 
-- [x] Apply to student programs (got rejected 😓 )
+- [x] Apply to student programs 
 
 - [ ] Learn DS and Algo
 
