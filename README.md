@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ymodepalli" target="blank"><img src="https://img.shields.io/twitter/follow/ymodepalli?logo=twitter&style=for-the-badge" alt="ymodepalli" /></a> </p>
 
+<img align="right" alt="GIF" src="/devpic.gif?raw=true" width="400" height="300"/>
+
 - 🌱 I’m currently learning : **C/C++**
 
 - 👯 I’m looking to collaborate on : **Python related projects**
@@ -19,12 +21,4 @@
 
 - ⚡ Fun fact : **I love talking to people.**
 
-## Goals of the year
-- [x] Learn Python
-
-- [x] Learn C/C++
-
-- [x] Apply to student programs 
-
-- [ ] Learn DS and Algo
 
