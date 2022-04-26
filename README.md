@@ -15,9 +15,9 @@
  
   <br><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img align="right" alt="Yaswanth14's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yaswanth14&show_icons=true&theme=tokyonight&locale=en" />  </a>
 
-- 🌱 I’m currently learning : **Django**
+- 🌱 I’m currently learning : **Node**
 
-- 👯 I’m looking to collaborate on : **Web dev realted projects**
+- 👯 I’m looking to collaborate on : **Django realted projects**
 
 - 📝 Have a look at my articles : [here](https://ymodepalli.hashnode.dev/)
 
